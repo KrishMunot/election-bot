@@ -1,2 +1,2 @@
-# election-bot
-Live American 🇺🇸 🦅  election polls 🗳️ 📊
+# Election Bot
+Live American 🇺🇸 🦅 election polls 🗳️ 📊
